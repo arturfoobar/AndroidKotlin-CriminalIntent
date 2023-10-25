@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntentKt</string>
+    <string name="crime_title_hint">Wprowadź tytuł sprawy</string>
+    <string name="crime_title_label">Tytuł</string>
+    <string name="crime_details_label">Szczegóły</string>
+    <string name="crime_solved_label">Sprawa rozwiązana</string>
+    <string name="new_crime">Nowa sprawa</string>
+    <string name="crime_suspect_text">Wybierz podejrzanego</string>
+
+    <string name="crime_report_text">Wyślij raport</string>
+    <string name="crime_report">Sprawa: %1$s! Zgłoszona %2$s. %3$s, %4$s.</string>
+    <string name="crime_report_solved">Zamknięta</string>
+    <string name="crime_report_unsolved">W trakcie</string>
+    <string name="crime_report_no_suspect">brak podejrzanego</string>
+    <string name="crime_report_suspect">podejrzanym jest %s</string>
+    <string name="crime_report_subject">CriminalIntent Akta sprawy</string>
+    <string name="send_report">Wyślij akta</string>
+</resources>
