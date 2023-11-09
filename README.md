@@ -1,2 +1,2 @@
 # AndroidKotlin-CriminalIntent
-Learning Android / Kotlin.
+Tutorial, Practice Android / Kotlin.
